@@ -1,0 +1,6 @@
+{
+  "tc01":{"username": "standard_user", "password": "secret_sauce"},
+  "tc02":{"username": "locked_out_user", "password": "secret_sauce"},
+  "tc03":{"username": "problem_user", "password": "secret_sauce"}
+
+}
